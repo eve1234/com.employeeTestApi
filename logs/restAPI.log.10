@@ -1,0 +1,9 @@
+2019-05-24 20:53:26 INFO  EmployeeRestAPI:78 - *******  Started TC003_Post_Employee_Records -- check Status Line *******
+2019-05-24 20:53:26 INFO  EmployeeRestAPI:110 - *******  Started TC003_Post_Employee_Records --finishing *******
+2019-05-24 20:54:11 INFO  EmployeeRestAPI:30 - *******  Started TC003_Post_Employee_Records *******
+2019-05-24 20:54:18 INFO  EmployeeRestAPI:102 - *******  Started TC003_Post_Employee_Records -- check Content Encoding *******
+2019-05-24 20:54:18 INFO  EmployeeRestAPI:86 - *******  Started TC003_Post_Employee_Records -- check Content Type *******
+2019-05-24 20:54:18 INFO  EmployeeRestAPI:59 - *******  Started TC003_Post_Employee_Records -- check Respone Body *******
+2019-05-24 20:54:18 INFO  EmployeeRestAPI:94 - *******  Started TC003_Post_Employee_Records -- check Server Type *******
+2019-05-24 20:54:18 INFO  EmployeeRestAPI:70 - *******  Started TC003_Post_Employee_Records -- check Status Code *******
+2019-05-24 20:54:18 INFO  EmployeeRestAPI:78 - *******  Started TC003_Post_Employee_Records -- check Status Line *******

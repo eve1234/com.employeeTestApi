@@ -1,0 +1,3 @@
+2019-05-24 23:01:21 INFO  EmployeeRestAPI:53 - ********  Started TC005_Delete_Employee_Record  --- check Status Code -- **********
+2019-05-24 23:01:21 INFO  EmployeeRestAPI:60 - ********  Started TC005_Delete_Employee_Record  --- check Status Line -- **********
+2019-05-24 23:01:21 INFO  EmployeeRestAPI:92 - *******  TC005_Delete_Employee_Record --finishing *******
